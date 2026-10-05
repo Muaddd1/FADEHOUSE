@@ -63,3 +63,7 @@ Demo content (shop, prices, reviews, barbers, availability) is fictional. Demo p
 - [AURUM](https://github.com/Muaddd1/AURUM) — luxury gold jewelry template with a live gold price calculator and Arabic RTL ([demo](https://aurum-template-muad1.vercel.app))
 - [VANTA](https://github.com/Muaddd1/VANTA) — premium digital-product storefront ([demo](https://vanta-creator-os.vercel.app))
 - [PLINTH](https://github.com/Muaddd1/PLINTH) — interior design studio template in a single HTML file ([demo](https://plinth-template.vercel.app))
+
+## Author
+
+Built by [Mouad Sehli](https://muad-portfolio.vercel.app), freelance front-end developer (React, TypeScript, Tailwind). More work and contact details are on the [portfolio](https://muad-portfolio.vercel.app).
